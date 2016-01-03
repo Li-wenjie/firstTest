@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.mobp2p.mobp2psdk.LoadingActivity { <init>(...); }
+
